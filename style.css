@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+body {
+font-family: 'Raleway', sans-serif;
+font-size: 20px;
+
+}
+
+
+html{
+  background-color: pink;
+
+}
+
+
+h1 {
+background-color: purple;
+color: White;
+width: 50;
+margin: auto;
+padding: -left .5em;
+}
+
+h2 {
+  background color: white;
+  color: purple;
+  margin: auto;
+  padding: -left .5em;
+}
+
+
+h3 {
+  background-color: white;
+  color: purple;
+  margin: auto;
+  padding: inherit;
+
+
+}
+
+
+#boxmodeldemo {
+  margin-left: 25px;
+  border: 1px purple solid;
+  padding: 20px;
